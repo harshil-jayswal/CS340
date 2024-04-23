@@ -2,6 +2,7 @@
 #  **CS-340 Client/Server Development**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)
+
 ![GraziosoSalvareLogo(2)](https://github.com/harshilkumar-jayswal/CS340/assets/87956398/d6a166c6-3665-4a1c-9f4e-7003269cae59)
 
 ##### How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
