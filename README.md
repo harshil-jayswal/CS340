@@ -10,8 +10,10 @@ My code for the `AnimalShelter` class is well-structured and handles MongoDB dat
 
 
 
+
 ### How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
 Approaching Grazioso Salvare's database and dashboard requirements involved a systematic breakdown of tasks, understanding client objectives, and applying technical skills effectively. For the database, I selected MongoDB for its suitability and implemented a Python module with CRUD functionality to ensure maintainability and adaptability. In dashboard development, I prioritized user experience, incorporating filtering options aligned with client needs. This project differed from previous assignments by emphasizing real-world client specifications and practical application, requiring a deeper understanding of stakeholder needs. In the future, I would continue to follow a systematic approach, focusing on thorough requirements analysis, best practices in database design, and clear documentation to meet client expectations efficiently.
+
 
 
 ### What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
